@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Python standard library is used. Tkinter is included with most Python installations.
